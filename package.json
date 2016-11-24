@@ -1,0 +1,22 @@
+{
+    "name": "vscode-material-theme",
+    "displayName": "Material Theme",
+    "description": "Material Theme",
+    "version": "0.0.1",
+    "publisher": "fredrikaverpil",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/material-theme.tmTheme"
+            }
+        ]
+    }
+}
