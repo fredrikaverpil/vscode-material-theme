@@ -4,7 +4,7 @@ This is a direct conversion of the excellent Material Theme by [Mattia Astorino]
 
 ## Screenshot
 
-To do.
+![Screenshot](https://cloud.githubusercontent.com/assets/994357/20610669/042cc31a-b29d-11e6-9657-87427ceb9e6a.png)
 
 
 ## Github source
