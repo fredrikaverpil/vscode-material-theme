@@ -1,6 +1,6 @@
 # Material Theme for vscode
 
-This is a direct conversion of the excellent Material Theme by [Mattia Astorino](https://github.com/equinusocio), downloaded from the [tmTheme Editor](http://tmtheme-editor.herokuapp.com/#!/editor/theme/Material%20Theme) and [converted through Yeoman](https://code.visualstudio.com/Docs/customization/themes#_adding-a-new-theme) into a vscode extension.
+This theme is directly based on the excellent Material Theme by [Mattia Astorino](https://github.com/equinusocio) without any modifications.
 
 **Please note**: The theme is, as of writing this, not rendered as intended in vscode. The current Insider build does render it correctly and we should enjoy this soon in the stable build of vscode.
 

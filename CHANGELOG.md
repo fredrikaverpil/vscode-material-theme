@@ -1,3 +1,6 @@
+### Version 0.0.3 (Jan 26, 2017)
+* Update README
+
 ### Version 0.0.2 (Jan 26, 2017)
 * Sync theme
 
