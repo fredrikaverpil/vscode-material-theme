@@ -2,19 +2,20 @@
 
 This is a direct conversion of the excellent Material Theme by [Mattia Astorino](https://github.com/equinusocio), downloaded from the [tmTheme Editor](http://tmtheme-editor.herokuapp.com/#!/editor/theme/Material%20Theme) and [converted through Yeoman](https://code.visualstudio.com/Docs/customization/themes#_adding-a-new-theme) into a vscode extension.
 
+**Please note**: The theme is, as of writing this, not rendered as intended in vscode. The current Insider build does render it correctly and we should enjoy this soon in the stable build of vscode.
+
+
 ## Screenshot
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/994357/20610669/042cc31a-b29d-11e6-9657-87427ceb9e6a.png)
 
 
-## Github source
 
-[https://github.com/fredrikaverpil/vscode-material-theme](https://github.com/fredrikaverpil/vscode-material-theme)
+## Resources
 
+* [Github source](https://github.com/fredrikaverpil/vscode-material-theme)
+* [Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=fredrikaverpil.vscode-material-theme)
 
-## Visual Studio Marketplace
-
-[https://marketplace.visualstudio.com/items?itemName=fredrikaverpil.vscode-material-theme](https://marketplace.visualstudio.com/items?itemName=fredrikaverpil.vscode-material-theme)
 
 
 ## Notes on updating the theme
@@ -44,18 +45,33 @@ npm install -g yo generator-code
 yo code
 ```
 
-#### Finalize update
+#### Bump version and create update changelog
 
 * Bump the version number in `package.json`
 * Add notes on the update in `CHANGELOG.md`
-* Commit and push all changes to git repository.
 
 
-#### Publish extension onto the Visual Studio Marketplace
+#### Test extension
 
 Official vsce docs: [https://code.visualstudio.com/docs/tools/vscecli](https://code.visualstudio.com/docs/tools/vscecli)
 
 ```bash
 npm install -g vsce
+vsce package  # create .vsix
+code --install-extension *.vsix  # test it
+mv *.vsix vsix/  # Move it into "vsix" folder
+```
+
+
+#### Publish to Github and Visual Studio Marketplace
+
+```bash
+git commit -am "Updated theme"
+git push
+```
+
+Notes on setting up a token in the [official vsce docs](https://code.visualstudio.com/docs/tools/vscecli).
+
+```bash
 vsce publish
 ```
