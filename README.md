@@ -2,7 +2,7 @@
 
 [![](https://vsmarketplacebadge.apphb.com/version-short/fredrikaverpil.vscode-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=fredrikaverpil.vscode-material-theme)
 [![](https://vsmarketplacebadge.apphb.com/installs-short/fredrikaverpil.vscode-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=fredrikaverpil.vscode-material-theme)
-[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![The MIT License](https://img.shields.io/github/license/mashape/apistatus.svg)](http://opensource.org/licenses/MIT)
 
 
 This theme is directly based on the excellent Material Theme by [Mattia Astorino](https://github.com/equinusocio) without any modifications.
