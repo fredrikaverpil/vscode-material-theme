@@ -7,7 +7,7 @@
 
 This theme is directly based on the excellent Material Theme by [Mattia Astorino](https://github.com/equinusocio) without any modifications.
 
-**Please note**: The theme is, as of writing this, not rendered as intended in vscode. The current Insider build does render it correctly and we should enjoy this soon in the stable build of vscode.
+**Please note**: The theme is, as of writing this, not rendered as intended in vscode (1.8). The current Insider build (1.9) does render it correctly and we should enjoy this soon in the stable build of vscode.
 
 
 ## Screenshot
