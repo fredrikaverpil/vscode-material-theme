@@ -1,3 +1,8 @@
+### Version 0.0.4 (Feb 03, 2017)
+* Updated screenshot for vscode 1.9
+* Fixed repository link typo
+* Update README
+
 ### Version 0.0.3 (Jan 26, 2017)
 * Update README
 

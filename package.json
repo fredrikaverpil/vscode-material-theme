@@ -2,7 +2,7 @@
     "name": "vscode-material-theme",
     "displayName": "Material Theme",
     "description": "Material Theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "fredrikaverpil",
 	"author": {
 		"name": "Fredrik Averpil",
@@ -11,7 +11,7 @@
     "homepage": "https://fredrikaverpil.github.io",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/fredrkaverpil/vscode-material-theme"
+		"url": "https://github.com/fredrikaverpil/vscode-material-theme"
 	},
 	"license": "MIT",
     "engines": {

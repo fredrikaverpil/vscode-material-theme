@@ -7,12 +7,10 @@
 
 This theme is directly based on the excellent Material Theme by [Mattia Astorino](https://github.com/equinusocio) without any modifications.
 
-**Please note**: The theme is, as of writing this, not rendered as intended in vscode (1.8). The current Insider build (1.9) does render it correctly and we should enjoy this soon in the stable build of vscode.
-
 
 ## Screenshot
 
-![Screenshot](https://cloud.githubusercontent.com/assets/994357/20610669/042cc31a-b29d-11e6-9657-87427ceb9e6a.png)
+![Screenshot](https://cloud.githubusercontent.com/assets/994357/22574280/55963086-e9ae-11e6-8469-2c26a255f1ad.png)
 
 
 
