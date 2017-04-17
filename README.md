@@ -1,3 +1,8 @@
+# Notice: THIS THEME IS NO LONGER MAINTAINED
+
+Since [Mattia Astorino](https://github.com/equinusocio) has released his excellent [Material Theme for Visual Code](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme), I am no longer maintaining this theme. Please use his theme instead!
+
+
 # Material Theme for vscode
 
 [![](https://vsmarketplacebadge.apphb.com/version-short/fredrikaverpil.vscode-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=fredrikaverpil.vscode-material-theme)
